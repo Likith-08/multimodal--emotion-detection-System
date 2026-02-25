@@ -1,0 +1,8 @@
+__pycache__/ 
+*.pyc 
+emotion_env/ 
+data/ 
+models/ 
+speec_module/audio/ 
+*.wav 
+*.pk1 
