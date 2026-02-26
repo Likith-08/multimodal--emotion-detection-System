@@ -111,7 +111,7 @@ multimodal_emotion_system/
 ### 1️⃣ Clone Repository
 
 ```
-git clone https://github.com/your-username/multimodal-emotion-detection-system.git
+git clone (https://github.com/Likith-08/multimodal--emotion-detection-System)
 cd multimodal-emotion-detection-system
 ```
 
@@ -143,6 +143,9 @@ http://localhost:8501
 ```
 
 ---
+Live Demo:
+
+|https://multimodal--emotion-detection-system-dmah6krx5ygaxdchvcpmqe.streamlit.app/|
 
 ## 🎯 Features
 
